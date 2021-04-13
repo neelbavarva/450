@@ -1,1 +1,1 @@
-# Some Good Competitive-Concepts
+# Some Good Competitive-
