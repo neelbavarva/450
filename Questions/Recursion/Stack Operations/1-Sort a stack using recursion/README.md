@@ -1,0 +1,1 @@
+#### All other problems like : Remove mid element from stack, reverse a stack, etc originate from this concept.
