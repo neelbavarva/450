@@ -1,3 +1,1 @@
-<div align="center">
-  <img width="75%" src="https://he-s3.s3.amazonaws.com/media/uploads/6b68f98.png" />
-</div>
+<img src="https://ibpublicimages.s3-us-west-2.amazonaws.com/tutorial/dp7.png" />
