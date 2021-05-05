@@ -1,1 +1,1 @@
-# Some Good Competitive Questions
+# Some Good Competitive Question
