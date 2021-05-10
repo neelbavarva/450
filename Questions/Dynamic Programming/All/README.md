@@ -1,1 +1,1 @@
-<img src="https://ibpublicimages.s3-us-west-2.amazonaws.com/tutorial/dp7.png" />
+1> <a href="https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&problemStatus=unsolved&difficulty[]=0&page=1&sortBy=accuracy&query=category[]Dynamic%20ProgrammingproblemStatusunsolveddifficulty[]0page1sortByaccuracycategory[]Dynamic%20Programming"> Reach a given score </a>, Hint: Coin Change Unbounded Knapsack
