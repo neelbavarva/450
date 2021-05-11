@@ -9,7 +9,7 @@ public class DP {
         String y = "abefkop";
         String ans = "";
         int n = x.length();
-        int m = x.length();
+        int m = y.length();
 
         int dp[][] = new int[n + 1][m + 1];
 

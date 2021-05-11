@@ -20,7 +20,7 @@ public class Recursion {
         String x = "abcdefg";
         String y = "abefkop";
         int n = x.length();
-        int m = x.length();
+        int m = y.length();
 
         System.out.println(solve(x, y, n, m));
 

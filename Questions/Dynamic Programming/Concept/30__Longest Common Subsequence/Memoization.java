@@ -26,7 +26,7 @@ public class Memoization {
         String x = "abcdefg";
         String y = "abefkop";
         int n = x.length();
-        int m = x.length();
+        int m = y.length();
         dp = new int[n + 1][m + 1];
 
         for (int i = 0; i < n + 1; i++) {
