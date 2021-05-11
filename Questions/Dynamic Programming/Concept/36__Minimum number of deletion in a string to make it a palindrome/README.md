@@ -1,8 +1,3 @@
 Given string => String x = "agbcba" <br>
 
-Now make another string y which is reverse of the given string x.
-
-String x = "agbcba";<br>
-String y = "abcbga";
-
-Now, find the longest common subsequence of x & y
+Therefore, no. of deletions = x.length() - <a href="https://github.com/neelbavarva/Competitive/tree/main/Questions/Dynamic%20Programming/Concept/35__Longest%20Palindromic%20Subsequence">Longest Common Subsequence</a>
