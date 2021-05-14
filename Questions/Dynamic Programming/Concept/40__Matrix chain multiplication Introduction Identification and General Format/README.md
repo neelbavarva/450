@@ -1,1 +1,14 @@
-<img src="https://ibpublicimages.s3-us-west-2.amazonaws.com/tutorial/dp7.png" />
+```
+int solve(int arr[], int i, int j){
+  if(i>j){
+    return 0;
+  }
+  
+  for(int k=i;k<j;k++){
+    temp_ans = solve(arr, i, k) + solve(arr, k+1, j); 
+    ans = function(temp_ans);
+  }
+  
+  return ans;
+}
+```
