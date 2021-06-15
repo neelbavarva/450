@@ -3,6 +3,7 @@ import java.util.*;
 
 public class Solution {
 
+    // GFG Code
     public static int getMaxArea(int arr[], int n) {
         // your code here
         // we create an empty stack here.
@@ -57,6 +58,84 @@ public class Solution {
         }
 
         return max_area;
+    }
+
+    // My Code, Not working :)
+    public static int getMaxAreaMy(int hist[], int n) {
+
+        if (n == 1) {
+            return hist[0];
+        }
+        Stack<Integer> stack = new Stack<>();
+        int left[] = new int[n];
+        int right[] = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            left[i] = -1;
+            right[i] = n;
+        }
+
+        stack.push(0);
+
+        for (int i = 1; i < n; i++) {
+            if (stack.isEmpty()) {
+                stack.push(i);
+            } else {
+                while (!stack.isEmpty() && hist[i] < hist[stack.peek()]) {
+                    stack.pop();
+                }
+
+                if (stack.isEmpty()) {
+                    left[i] = -1;
+                    stack.push(i);
+                } else {
+                    left[i] = stack.peek();
+                    stack.push(i);
+                }
+            }
+        }
+
+        while (!stack.isEmpty()) {
+            stack.pop();
+        }
+
+        stack.push(n - 1);
+        for (int i = n - 1; i >= 0; i--) {
+            if (stack.isEmpty()) {
+                stack.push(i);
+            } else {
+                while (!stack.isEmpty() && hist[i] < hist[stack.peek()]) {
+                    stack.pop();
+                }
+
+                if (stack.isEmpty()) {
+                    right[i] = n;
+                    stack.push(i);
+                } else {
+                    right[i] = stack.peek();
+                    stack.push(i);
+                }
+            }
+        }
+
+        int max[] = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            max[i] = (right[i] - left[i] - 1) * hist[i];
+        }
+
+        for (int i = 0; i < n; i++) {
+            System.out.print(right[i] + " ");
+        }
+
+        int maxArea = Integer.MIN_VALUE;
+        for (int i = 0; i < n; i++) {
+            if (maxArea < max[i]) {
+                maxArea = max[i];
+            }
+        }
+
+        return maxArea;
     }
 
     public static void main(String[] args) throws IOException {
