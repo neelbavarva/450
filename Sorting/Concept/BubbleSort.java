@@ -1,4 +1,5 @@
-package Algorithms.Sorting;
+import java.io.*;
+import java.util.*;
 
 public class BubbleSort {
 
@@ -24,8 +25,6 @@ public class BubbleSort {
 
         int[] arr = { 4, 9, 1, 6, 2, 0 };
         bubbleSort(arr);
-        for (int i = 0; i < arr.length; i++) {
-            System.out.print(arr[i] + " ");
-        }
+        System.out.println(Arrays.toString(arr));
     }
 }
