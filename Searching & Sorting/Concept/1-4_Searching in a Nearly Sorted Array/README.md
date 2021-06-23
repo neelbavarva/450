@@ -1,1 +1,17 @@
-<h4>Find the lowest element using <a href="https://github.com/neelbavarva/Competitive/tree/main/Searching%20%26%20Sorting/Concept/1-2_Number%20of%20Times%20a%20Sorted%20array%20is%20Rotated">Number of time sorted array is Rotated</a> and apply binary search on both the sides.</h4>
+```
+if(target == middle){
+  return middle;
+}
+
+if(middle-1 > start && arr[middle - 1] == target){
+  return middle - 1;
+}
+if(middle+1 < end && arr[middle + 1] == target){
+  return middle + 1;
+}
+
+// then according to condition
+end = middle - 2;
+      OR
+start = middle + 2;
+```
