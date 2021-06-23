@@ -1,20 +1,16 @@
 ```
-int ans = -1;
+if(arr[middle] == key){
 
-while(left<right){
-  if(middle == given){
-    return given;
-  }
+  left = middle + 1;
+  
+} else if(arr[middle] < key){
 
-  if(middle > given){
-    left = middle + 1;
-  }
+  left = middle + 1;
+  
+} else if(arr[middle] > key){
 
-  if(middle < given){
-    right = middle - 1;
-    ans = middle;
-  }
+  ans = middle;
+  right = middle - 1;
+  
 }
-
-return ans;
 ```
