@@ -1,17 +1,20 @@
 ```
-if(target == middle){
-  return middle;
+int ans = -1;
+
+while(left<right){
+  if(middle == given){
+    return given;
+  }
+
+  if(middle > given){
+    left = middle + 1;
+  }
+
+  if(middle < given){
+    right = middle - 1;
+    ans = middle;
+  }
 }
 
-if(middle-1 > start && arr[middle - 1] == target){
-  return middle - 1;
-}
-if(middle+1 < end && arr[middle + 1] == target){
-  return middle + 1;
-}
-
-// then according to condition
-end = middle - 2;
-      OR
-start = middle + 2;
+return ans;
 ```
