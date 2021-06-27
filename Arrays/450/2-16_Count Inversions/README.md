@@ -1,0 +1,3 @@
+```
+countOfInversion += mid - i;
+```
