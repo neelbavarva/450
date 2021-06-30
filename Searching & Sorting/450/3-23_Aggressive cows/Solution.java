@@ -1,0 +1,47 @@
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+
+    public static void main(String[] args) throws IOException {
+        Scanner sc = new Scanner(System.in);
+
+        int t = sc.nextInt();
+        while (t-- > 0) {
+            int n = sc.nextInt();
+            int c = sc.nextInt();
+            int arr[] = new int[n];
+            for (int i = 0; i < n; i++) {
+                arr[i] = sc.nextInt();
+            }
+            Arrays.sort(arr);
+            int lb = 1;
+            int ub = 1000000000;
+            int ans = 0;
+            while (lb <= ub) {
+                int mid = lb + (ub - lb) / 2;
+                int cow = 1;
+                int prev = arr[0];
+                for (int i = 1; i < n; i++) {
+                    if (arr[i] - prev >= mid) {
+                        cow++;
+                        prev = arr[i];
+                        if (c == cow) {
+                            break;
+                        }
+                    }
+                }
+
+                if (cow == c) {
+                    ans = mid;
+                    lb = mid + 1;
+                } else {
+                    ub = mid - 1;
+                }
+            }
+
+            System.out.println(ans);
+        }
+    }
+
+}
