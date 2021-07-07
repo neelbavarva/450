@@ -45,7 +45,11 @@ public class DP {
             }
         }
 
-        System.out.println(dp[n][val]);
+        if (dp[n][val] >= Integer.MAX_VALUE - 1) {
+            System.out.println(-1);
+        } else {
+            System.out.println(dp[n][val]);
+        }
 
     }
 }
