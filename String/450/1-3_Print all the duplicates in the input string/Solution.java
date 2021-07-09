@@ -1,7 +1,6 @@
 public class Solution {
     static void printDups(String str) {
         HashMap<Character, Integer> count = new HashMap<>();
-
         for (int i = 0; i < str.length(); i++) {
             if (!count.containsKey(str.charAt(i))) {
                 count.put(str.charAt(i), 1);
