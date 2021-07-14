@@ -1,3 +1,6 @@
+import java.io.*;
+import java.util.*;
+
 public class Solution {
     public static long[] nextLargerElement(long[] arr, int n) {
         Stack<Long> stack = new Stack<>();
