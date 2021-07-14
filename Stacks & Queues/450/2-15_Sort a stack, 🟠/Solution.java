@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 public class Solution {
     static public void insert(Stack<Integer> s, int x) {
         if (!s.isEmpty()) {
