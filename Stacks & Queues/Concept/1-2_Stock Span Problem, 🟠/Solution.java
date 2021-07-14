@@ -3,23 +3,24 @@ import java.util.*;
 
 public class Solution {
 
-    static public void solve(int stocks[], int n) {
+    static public void solve(int price[], int n) {
         int arr[] = new int[n];
         arr[0] = 1;
+
         Stack<Integer> stack = new Stack<>();
 
+        stack.push(0);
+
         for (int i = 1; i < n; i++) {
-            if (!stack.isEmpty() && stack.peek() > stocks[i]) {
-                stack.push(stocks[i]);
-                arr[i] = 1;
-            } else {
-                arr[i] = 1;
-                while (!stack.isEmpty() && stack.peek() < stocks[i]) {
-                    stack.pop();
-                    arr[i]++;
-                }
-                stack.push(stocks[i]);
+            while (!stack.isEmpty() && price[stack.peek()] <= price[i]) {
+
+                stack.pop();
             }
+
+            arr[i] = stack.isEmpty() ? (i + 1) : (i - stack.peek());
+
+            stack.push(i);
+
         }
 
         for (int i = 0; i < n; i++) {
