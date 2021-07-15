@@ -1,4 +1,16 @@
+import java.io.*;
+import java.util.*;
+
 public class Solution {
+    class Item {
+        int value, weight;
+
+        Item(int x, int y) {
+            this.value = x;
+            this.weight = y;
+        }
+    }
+
     double fractionalKnapsack(int weight, Item arr[], int n) {
         double W = (double) weight;
         double ratio[] = new double[n];
@@ -18,7 +30,6 @@ public class Solution {
         for (Map.Entry<Double, Integer> entry : map.entrySet()) {
 
             int i = entry.getValue();
-
             if (arr[i].weight <= W) {
                 W -= arr[i].weight;
                 sum += (double) arr[i].value;
@@ -26,6 +37,7 @@ public class Solution {
                 sum += (double) arr[i].value * (double) ((double) W / (double) arr[i].weight);
                 break;
             }
+
         }
 
         return sum;

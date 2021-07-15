@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class Solution {
     static ArrayList<Integer> candyStore(int candies[], int N, int K) {
         List<Integer> list = new ArrayList<>();
