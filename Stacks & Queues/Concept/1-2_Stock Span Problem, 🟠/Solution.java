@@ -13,7 +13,6 @@ public class Solution {
 
         for (int i = 1; i < n; i++) {
             while (!stack.isEmpty() && price[stack.peek()] <= price[i]) {
-
                 stack.pop();
             }
 
