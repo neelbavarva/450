@@ -1,4 +1,8 @@
 class Solution {
+    class Node {
+        Node next;
+    }
+
     public static boolean detectLoop(Node head) {
 
         Node slow = head;
