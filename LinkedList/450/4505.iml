@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1-1_Reverse a linked list,  🟢Iterative,  🟡Recursive" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-2_Reverse a Linked List in groups of given size, 🟡, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-3_Detect Loop in linked list, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-4_Remove loop in Linked List, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-5_Remove duplicate element from sorted Linked List, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-6_Remove duplicates from an unsorted linked list, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-7_Add 1 to a number represented as linked list, 🟢 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-8_Add two numbers represented by linked lists, 🟢, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-9_Intersection of two sorted Linked lists, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-10_Intersection Point in Y Shapped Linked Lists, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-11_Merge Sort for Linked List, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-13_Middle of the Linked List, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-14.5_Split a Circular Linked List into two halves, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-14_Check If Circular Linked List, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-15_Check if Linked List is Palindrome, 🟡, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-16_Deletion from a Circular Linked List, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-17_Reverse a Doubly Linked List, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-18_Find pairs with given sum in doubly linked list, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-19_Count triplets in a sorted doubly linked list whose sum is equal to a given value x, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-21_Rotate Doubly linked list by N nodes, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-22_Reverse a doubly linked list in groups of given size, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-25-Flattening a Linked List, 🔴" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-26_Sort a LinkedList of 0,1,2s, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-28_Merge K sorted linked lists, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-29_Multiply two linked lists, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-30_Clone a linked list with next and random pointer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-30_Delete nodes having greater value on right, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-31_Segregate even and odd nodes in a Link List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-32_Nth node from end of linked list, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-33_First non-repeating character in a stream" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1-1_N meetings in one room, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-2_Job Sequencing Problem, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-5_Fractional Knapsack, 🟢, 🔴" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-8_Minimum Platforms, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-10_Shop in Candy Store, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-17_Maximize sum after K negations, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-18_Maximize sum of an Array, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-20_Swap and Maximize, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-23_Page Faults in LRU, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-25_Chocolate Distribution Problem, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-26_Defense of a Kingdom, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-28_Wine trading in Gergovia, 🟠" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

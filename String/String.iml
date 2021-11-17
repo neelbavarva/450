@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/450/1-1_Reverse String, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-2_Palindrome String, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-3_Print all the duplicates in the input string, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-5_If strings are rotations of each other, 🟢 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-7_Look and Say Pattern, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-8_Longest Palindrome in a String, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-9_Longest Repeating Subsequence, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-10_Print all subsequences of a string, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-11_Permutations of a given string, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-13_Word Wrap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-14_Edit Distance, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-15_Next Permutation, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-16_Parenthesis Checker, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-17_Word Break, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-19_Longest Prefix Suffix, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-22_Count Palindromic Subsequences, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-24_Find the string in grid" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-26_Roman Number to Integer, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-28_Min Number of Flips, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-29_Second most repeated string in a sequence, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-31_Longest Common Subsequence, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-33_Smallest distinct window, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-37_Minimum Window Substring, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-38_Remove Consecutive Characters, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/5-42_Isomorphic Strings, 🟢" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1-1_ Implement Stack from Scratch, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-3_Implement two stacks in an array, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-6_Parenthesis Checker, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-7_Reverse a string using Stack, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-8_Special Stack, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-9_Next Greater Element, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-12_Evaluation of Postfix Expression, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-14_Reverse a stack using recursion, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-15_Sort a stack, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-17_Maximum Rectangular Area in a Histogram, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-18_Valid Substring, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-20_Stack using two queues, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-23_Queue using two Stacks, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-27_Queue Reversal, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-28_Reverse First K elements of Queue, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-31_Rotten Oranges, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-33_First negative integer in every window of size k, 🟢" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

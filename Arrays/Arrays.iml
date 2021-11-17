@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/450/1-6_Union of two arrays, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-7_Cyclically rotate an array by one, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-9_Minimize the Heights II, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-10_Minimum number of jumps, 🔴" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-11_Find the Duplicate Number, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-12_Merge Without Extra Space, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-13_Kadane's Algorithm, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-14_Merge Intervals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-16_Count Inversions, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-17_Best Time to Buy and Sell Stock, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-18_Count pairs with given sum, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-19_Common elements, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-21_Subarray with 0 sum, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-23_Maximum Product Subarray, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-24_Longest consecutive subsequence, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-25_Count More than n by k Occurences, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-27_Array Subset of another array, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-28_Triplet Sum in Array, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-29_Trapping Rain Water, 🟢, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-30_Chocolate Distribution Problem, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-31_Smallest subarray with sum greater than x, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-32_Three way partitioning, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-33_Minimum swaps and K together, 🟠 (Catch)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-35_Find the median, 🔵" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

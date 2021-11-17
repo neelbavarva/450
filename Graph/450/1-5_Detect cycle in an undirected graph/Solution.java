@@ -1,34 +1,50 @@
 public class Solution {
     public boolean isCycle(int V, ArrayList<ArrayList<Integer>> adj) {
 
+        Set<Integer> all = new HashSet<>();
+        Set<Integer> visiting = new HashSet<>();
         Set<Integer> visited = new HashSet<>();
 
         for (int i = 0; i < V; i++) {
-            if (!visited.contains(i)) {
-                if (isCycle(i, -1, adj, visited)) {
-                    return true;
-                }
+            all.add(i);
+        }
+
+        for (int i = 0; i < V; i++) {
+            if (hasCycle(i, adj, all, visiting, visited, -1)) {
+                return true;
             }
         }
 
         return false;
+
     }
 
-    public boolean isCycle(int node, int parent, ArrayList<ArrayList<Integer>> adj, Set<Integer> visited) {
-        visited.add(node);
+    public boolean hasCycle(int node, ArrayList<ArrayList<Integer>> adj, Set<Integer> all, Set<Integer> visiting,
+            Set<Integer> visited, int parent) {
+        all.remove(node);
+        visiting.add(node);
 
-        for (int i : adj.get(node)) {
+        for (var neigh : adj.get(node)) {
 
-            if (!visited.contains(i)) {
+            if (neigh == parent) {
+                continue;
+            }
 
-                if (isCycle(i, node, adj, visited)) {
-                    return true;
-                }
-            } else if (i != parent || i == node) {
+            if (visited.contains(neigh)) {
+                continue;
+            }
+
+            if (visiting.contains(neigh)) {
                 return true;
             }
 
+            if (hasCycle(neigh, adj, all, visiting, visited, node)) {
+                return true;
+            }
         }
+
+        visiting.remove(node);
+        visited.add(node);
 
         return false;
     }

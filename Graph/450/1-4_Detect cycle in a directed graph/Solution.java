@@ -1,40 +1,45 @@
 public class Solution {
-    public boolean hasCycle(int node, boolean[] visited, boolean[] visiting, ArrayList<ArrayList<Integer>> adj) {
-
-        if (visiting[node]) {
-            return true;
-        }
-
-        if (visited[node]) {
-            return false;
-        }
-
-        visited[node] = true;
-        visiting[node] = true;
-
-        List<Integer> children = adj.get(node);
-
-        for (Integer c : children) {
-            if (hasCycle(c, visited, visiting, adj)) {
-                return true;
-            }
-        }
-
-        visiting[node] = false;
-
-        return false;
-    }
-
     public boolean isCyclic(int V, ArrayList<ArrayList<Integer>> adj) {
 
-        boolean[] visited = new boolean[V];
-        boolean[] visiting = new boolean[V];
+        Set<Integer> all = new HashSet<>();
+        Set<Integer> visiting = new HashSet<>();
+        Set<Integer> visited = new HashSet<>();
 
         for (int i = 0; i < V; i++) {
-            if (hasCycle(i, visited, visiting, adj)) {
+            all.add(i);
+        }
+
+        for (int i = 0; i < V; i++) {
+            if (hasCycle(i, adj, all, visiting, visited)) {
                 return true;
             }
         }
+
+        return false;
+
+    }
+
+    public boolean hasCycle(int node, ArrayList<ArrayList<Integer>> adj, Set<Integer> all, Set<Integer> visiting,
+            Set<Integer> visited) {
+        all.remove(node);
+        visiting.add(node);
+
+        for (var neigh : adj.get(node)) {
+            if (visited.contains(neigh)) {
+                continue;
+            }
+
+            if (visiting.contains(neigh)) {
+                return true;
+            }
+
+            if (hasCycle(neigh, adj, all, visiting, visited)) {
+                return true;
+            }
+        }
+
+        visiting.remove(node);
+        visited.add(node);
 
         return false;
     }

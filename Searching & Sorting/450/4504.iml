@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1-1_First and last occurrences of x, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-2_Value equal to index value, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-3_Search in Rotated Sorted Array, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-4_Count Squares, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-5_Middle of Three, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-7_Find Missing And Repeating, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-8-1_Majority Element, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-9_Searching in an array where adjacent differ by at most k, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-10_Find Pair Given Difference, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-13_Count triplets with sum smaller than X, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-14_Merge Without Extra Space, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-16_Product array puzzle, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-17_Sort by Set Bit Count, 🔴" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-18_Minimum Swaps to Sort, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-19_Bishu and Soldiers, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-22_K-th element of two sorted Arrays, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-23_Aggressive cows, 🟡 , 🔴" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-24_Allocate minimum number of pages, 🟡 , 🔴" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-25_EKO, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-27_Arithmetic Number, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-28_Smallest factorial number, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-29_The Painter's Partition Problem, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-30_Roti Prata, 🟡 , 🔴" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

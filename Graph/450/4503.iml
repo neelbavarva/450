@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1-2_BFS of graph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-3_DFS of Graph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-4_Detect cycle in a directed graph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-5_Detect cycle in an undirected graph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-6_Steps by Knight" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-12_Topological sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-15_Find the number of islands" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/450/1-1_Level order traversal, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-2_Reverse Level Order Traversal, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-3_Height of Binary Tree, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-4_Diameter of Binary Tree, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-5_Create a mirror tree from the given binary tree, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-6_Inorder Tree Traversal – Iterative and Recursive, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-7_Preorder Tree Traversal – Iterative and Recursive, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-8_Postorder Tree Traversal – Iterative and Recursive, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/1-9_Left View of Binary Tree, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-10_Right View of Binary Tree, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-11_Top View of Binary Tree, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-12_Bottom View of Binary Tree, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-13_ZigZag Tree Traversal, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-14_Check for Balanced Tree, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-15_Diagonal Traversal of Binary Tree, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-16_Boundary Traversal of binary tree, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-18_Binary Tree to DLL, 🔴" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/2-19_Transform to Sum Tree, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-20_Construct Tree from Inorder &amp; Preorder, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-22_Sum Tree, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-23_Leaf at same level, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-25_Check Mirror in N-ary tree, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-26_Sum of the Longest Bloodline of a Tree (Sum of nodes on the longest path from root to leaf node), 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/3-28_Find largest subtree sum in a tree,🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-31_Lowest Common Ancestor in a Binary Tree, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-32_Min distance between two given nodes of a Binary Tree, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/450/4-35_Check if Tree is Isomorphic, 🟠" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

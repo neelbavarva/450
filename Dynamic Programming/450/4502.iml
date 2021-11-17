@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1-1_Coin Change, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-2_0 - 1 Knapsack Problem, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-3_nCr, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-4_Permutation Coefficient, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-5_Nth catalan number, 🔵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-6_Matrix Chain Multiplication, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-7_Edit Distance, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-8_Partition Equal Subset Sum, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-9_Friends Pairing Problem, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-10_Gold Mine Problem, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-12_Painting the Fence, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-13_Maximize The Cut Segments, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-14_Longest Common Subsequence, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-15_Longest Repeating Subsequence, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-16_Longest Increasing Subsequence, 🔴" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-18_LCS of three string, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-19_Maximum sum increasing subsequence, 🟠" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-21_Longest subsequence-1, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-23_Egg Dropping Puzzle, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-24_Max length chain, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-26_Pairs with specific difference, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-27_Maximum path sum in matrix, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3-29_Minimum number of jumps, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-30_Minimum cost to fill given weight in a bag, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-32_Longest Common Substring, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-33_Reach a given score, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-34_BBT counter, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-35_Kadane's Algorithm, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4-37_Unbounded Knapsack, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-40_Partition Equal Subset Sum, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-44_Longest alternating subsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-47_Disarrangement of balls, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5-49_Optimal Strategy For A Game, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-51_Palindromic patitioning, 🟢" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-53_Mobile numeric keypad, 🟡" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6-57_Maximum sum Rectangle, 🟠" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

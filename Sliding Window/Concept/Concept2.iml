@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1-1_First Negative Number in every Window of Size K" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-2_Count Occurrences Of Anagrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-3_Maximum of all subarrays of size k" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-1_Largest Subarray of sum K" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-2_Longest Substring With K Unique Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-3_Longest Substring With Without Repeating Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2-4_Minimum Window Substring" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
