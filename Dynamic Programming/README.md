@@ -1,1 +1,5 @@
-<a href="https://chuka231.blogspot.com/2021/01/leetcode-all-dynamic-programming.html"><img src="https://ibpublicimages.s3-us-west-2.amazonaws.com/tutorial/dp7.png" /></a>
+
+| Problem  | Difficulty | Category |
+| ------------- | ------------- | ------------- |
+| <a href="https://leetcode.com/problems/house-robber/">House Robber</a>  | Medium  | Linear DP  |
+| <a href="https://leetcode.com/problems/house-robber/">House Robber</a>  | Medium  | Linear DP  |
