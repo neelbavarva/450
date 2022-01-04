@@ -7,3 +7,5 @@
 | <a href="https://leetcode.com/problems/house-robber-ii/">House Robber II</a>  | Medium  | Knapsack  |
 | <a href="https://leetcode.com/problems/best-team-with-no-conflicts/">Best Team With No Conflicts</a>  | Medium  | Knapsack  |
 | <a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a>  | Medium  | LCS  | IMP Concept |
+| <a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a>  | Medium  | LIS  | Basic Concept |
+
