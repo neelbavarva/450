@@ -8,4 +8,4 @@
 | <a href="https://leetcode.com/problems/best-team-with-no-conflicts/">Best Team With No Conflicts</a>  | Medium  | Knapsack  |
 | <a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a>  | Medium  | LCS  | IMP Concept |
 | <a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a>  | Medium  | LIS  | Basic Concept |
-
+| <a href="https://leetcode.com/problems/number-of-longest-increasing-subsequence/">Number of Longest Increasing Subsequence</a>  | Medium  | LIS  | Basic Concept |
