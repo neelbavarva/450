@@ -17,4 +17,4 @@
 | Problem  | Difficulty | Category | Level |
 | ------------- | ------------- | ------------- | ------------- |
 | <a href="https://leetcode.com/problems/pizza-with-3n-slices/">Pizza With 3n Slices</a>  | Hard | Knapsack  |
-| <a href="https://leetcode.com/problems/tallest-billboard/">Tallest Billboard</a>  | Hard | Knapsack  |
+| <a href="https://leetcode.com/problems/tallest-billboard/">Tallest Billboard</a>  | Hard | Knapsack  | Memoization Technique |
