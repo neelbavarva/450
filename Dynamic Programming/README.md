@@ -18,4 +18,5 @@
 | ------------- | ------------- | ------------- | ------------- |
 | <a href="https://leetcode.com/problems/pizza-with-3n-slices/">Pizza With 3n Slices</a>  | Hard | Knapsack  |
 | <a href="https://leetcode.com/problems/tallest-billboard/">Tallest Billboard</a>  | Hard | Knapsack  | Memoization Technique |
-| <a href="https://leetcode.com/problems/edit-distance/">Edit Distance</a>  | Hard | LIC  | Technique |
+| <a href="https://leetcode.com/problems/edit-distance/">Edit Distance</a>  | Hard | LCS  | Technique |
+| <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/">Max Dot Product of Two Subsequences</a>  | Hard | LCS  |  |
