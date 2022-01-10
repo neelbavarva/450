@@ -21,4 +21,5 @@
 | <a href="https://leetcode.com/problems/edit-distance/">Edit Distance</a>  | Hard | LCS  | Technique |
 | <a href="https://leetcode.com/problems/max-dot-product-of-two-subsequences/">Max Dot Product of Two Subsequences</a>  | Hard | LCS  |  |
 | <a href="https://leetcode.com/problems/interleaving-string/">Interleaving String</a>  | Hard | LCS  |  |
+| <a href="https://leetcode.com/problems/maximum-height-by-stacking-cuboids/">Maximum Height by Stacking Cuboids</a>  | Hard | LIS  | CP Type, Not Conceptual |
 
