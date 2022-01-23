@@ -12,6 +12,7 @@
 | <a href="https://leetcode.com/problems/number-of-longest-increasing-subsequence/">Number of Longest Increasing Subsequence</a>  | Medium  | LIS  | Basic Concept |
 | <a href="https://leetcode.com/problems/palindrome-partitioning/">Palindrome Partitioning</a>  | Medium  | String DP  | MCM Concept |
 | <a href="https://leetcode.com/problems/word-break/">Word Break</a>  | Medium  | String DP  | MCM Concept + Good Question |
+| <a href="https://leetcode.com/problems/unique-substrings-in-wraparound-string/">Unique Substrings in Wraparound String</a>  | Medium  | String DP  | Concept |
 
 
 ## Hard
