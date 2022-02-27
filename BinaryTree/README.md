@@ -7,4 +7,4 @@
 | <a href="https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/">Path In Zigzag Labelled Binary Tree</a>  | Medium | | Math, Formula |
 | <a href="https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/">Lowest Common Ancestor of Deepest Leaves</a>  | Medium | | Catch in Implementation |
 | <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/">Construct Binary Tree from Preorder and Postorder Traversal</a>  | Medium | | Standard Concept |
-
+| <a href="https://leetcode.com/problems/maximum-width-of-binary-tree/">Maximum Width of Binary Tree</a>  | Medium | | Unique |
