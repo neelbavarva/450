@@ -26,4 +26,5 @@
 | <a href="https://leetcode.com/problems/interleaving-string/">Interleaving String</a>  | Hard | LCS  |  |
 | <a href="https://leetcode.com/problems/maximum-height-by-stacking-cuboids/">Maximum Height by Stacking Cuboids</a>  | Hard | LIS  | CP Type, Not Conceptual |
 | <a href="https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/">Minimum Number of Removals to Make Mountain Array</a>  | Hard | LIS  | Amazing For LIS Concept |
+| <a href="https://leetcode.com/problems/cherry-pickup/">Cherry Pickup</a> | Hard | Path | Backtracking TLE , DP OP Method |
 
