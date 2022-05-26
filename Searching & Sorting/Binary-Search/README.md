@@ -12,4 +12,4 @@
 1482. Minimum Number of Days to Make m Bouquets
 2064. Minimized Maximum of Products Distributed to Any Store
 1760. Minimum Limit of Balls in a Bag
-1300 Sum of Mutated Array Closest To Target
+1300. Sum of Mutated Array Closest To Target
